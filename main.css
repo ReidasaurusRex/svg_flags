@@ -1,3 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
 h1 {
-  color: red;
+  color: #7F7F7F;
+}
+
+h2, h3, h4 {
+  color: #636363;
+}
+
+p {
+  color: #474747;
+}
+
+a {
+  color: #9C9C9C;
+}
+
+a:hover {
+  text-decoration: underline;
 }
