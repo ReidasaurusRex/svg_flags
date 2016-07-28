@@ -3,7 +3,8 @@
 A place to practice SVG by drawing flags of places I've been. SVG elements are drawn inline with HTML index files for ease of access with JS. Flags include: 
 
 * USA
-* Botswana x
+* Botswana
+* Denmark
 * Finland x
 * Iceland x
 * Laos x
